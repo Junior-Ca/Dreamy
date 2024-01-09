@@ -1,0 +1,9 @@
+Dreamy Prototype Links
+
+Horizontal Prototype: https://www.figma.com/proto/G6Fij0qASAVYDwk6wYEhUq/Horizontal-Prototype?type=design&node-id=56-575&t=FHXB0d6WNrwCJN1m-1&scaling=scale-down&page-id=1%3A6&starting-point-node-id=56%3A575
+
+Vertical Prototype: https://www.figma.com/proto/8F3emxFYoVZkfqHtDlzUDp/Vertical-Prototype?type=design&node-id=300-246&t=b8DwSqgai9kPJiHV-0&scaling=scale-down&page-id=1%3A6&starting-point-node-id=300%3A246
+
+Horizontal Project https://www.figma.com/file/G6Fij0qASAVYDwk6wYEhUq/Horizontal-Prototype?type=design&node-id=1-6&mode=design&t=O7VhbZEEfvkpsjq1-0
+
+Vertical Project https://www.figma.com/file/8F3emxFYoVZkfqHtDlzUDp/Vertical-Prototype?type=design&node-id=1-6&mode=design&t=b8DwSqgai9kPJiHV-0
